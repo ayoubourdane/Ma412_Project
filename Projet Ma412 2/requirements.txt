@@ -1,0 +1,12 @@
+READ ME :
+
+To launch the code, I suggest you tu use Visual Code programme and execute in the terminal this following prompt :
+
+- Python -m vent project
+- source project/bin/activate
+- pip install pandas 
+- pip install scikit-learn 
+- pip install nltk 
+- pip install datasets
+- pip install --upgrade pip setuptools wheel
+- pip install tensorflow
